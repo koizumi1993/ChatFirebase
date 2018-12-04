@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "766494812693",
+    "firebase_url": "https://chatfirebase-1e79c.firebaseio.com",
+    "project_id": "chatfirebase-1e79c",
+    "storage_bucket": "chatfirebase-1e79c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766494812693:android:dc5ca0e70273473e",
+        "android_client_info": {
+          "package_name": "com.fundamentos.abisu.chatfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766494812693-r627vrt2fmo6vbnc0k38k92uc9vl8cc0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fundamentos.abisu.chatfirebase",
+            "certificate_hash": "292e534807ef340e13dcb418223bf9fca31dd8dd"
+          }
+        },
+        {
+          "client_id": "766494812693-qvdigfft5tegs2agcgj2t91d2et27ve7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0Gyc0tOQavnSJcKKk9yz7iUSebJkg9NY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766494812693-qvdigfft5tegs2agcgj2t91d2et27ve7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
